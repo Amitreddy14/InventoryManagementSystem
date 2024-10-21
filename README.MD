@@ -54,7 +54,8 @@ Prototypes:
 
 ![Dashboard](images/prototypes/Dashboard.png)
 
-![Dashboard](images/prototypes/Customers.png)
+![Dashboard](images/prototypes/Customer.png)
 
+![Dashboard](images/prototypes/Sells.png)
 
 
